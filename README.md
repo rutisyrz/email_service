@@ -4,7 +4,6 @@
 
 ## Need of Private gem
 	Customize existing gem as per your requirements
-	Store your third party account credentials & keep them safe 
 	Avoid code duplication in SaaS / SOA based multiple applications using same set of services/functionalities 
 	Do not wait for your contribution to get added in original gem 
 
